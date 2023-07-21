@@ -1,10 +1,10 @@
 import Header from "./Layout/Header";
-import MealSummary from "./Meal/MealSummary";
+import Meal from "./Meal/Meal";
 function App() {
   return (
     <div>
       <Header />
-      <MealSummary/>
+     <Meal/>
     </div>
   );
 }
